@@ -1,1 +1,1 @@
-# odin-recipes
+Odin Recipes is a basic HTML page with a list of recipes for my favourite dishes. This repo is made to demontrate the skills I have learned through TOP.
